@@ -1,0 +1,12 @@
+.venv
+
+__pycache__
+
+*.zip
+
+dist/
+
+.env
+
+.terraform*
+terraform.tfstate*
